@@ -1,0 +1,8 @@
+pymongo~=4.6.1
+python-dotenv~=1.0.0
+pydantic~=2.5.2
+motor~=3.3.2
+fastapi~=0.104.1
+passlib~=1.7.4
+uvicorn~=0.24.0.post1
+sendgrid~=6.11.0
